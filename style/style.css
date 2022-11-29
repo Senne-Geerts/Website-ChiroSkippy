@@ -111,6 +111,16 @@
   position: relative;
   display: flex;
 }
+
+.header-wijn{
+  background-image: linear-gradient(#00000080, #00000080), url("/img/wijn.jpg");
+  height: 250px;
+  background-position: 50% 30%;;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  display: flex;
+}
   
 .header-text {
     
